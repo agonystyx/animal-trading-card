@@ -1,0 +1,45 @@
+/* add your CSS here */
+
+body {
+	border: thin;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+
+ul {
+	font-style: italic; 
+	list-style: none;
+	padding-left:0;
+
+}
+
+img {
+	width:320px;
+	padding: 0px;
+}
+
+.big-box {
+
+	border: 1px solid #B8B8B8;
+	padding: 10px;
+	box-shadow: 0px 5px 10px 1px #B8B8B8   ;
+	width:320px;
+
+}
+
+.small-box {
+
+	border: 1px solid #B8B8B8;
+	padding: 10px;
+	width:299px;
+}
+
+
+.interesting-fact {
+	font-style: italic; 
+}
+
+.spec {
+	font-weight: bold;
+	font-style: normal; 
+}
